@@ -9,7 +9,7 @@
 
 ## About User Management
 
-User Management is basically simple laravel project with crud operation using php, laravel and jquery languages.
+User Management is basically simple laravel project with crud operation using php, laravel and jquery languages. 
 
 ## About Laravel
 
