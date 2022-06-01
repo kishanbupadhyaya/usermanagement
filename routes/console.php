@@ -14,8 +14,6 @@ use Illuminate\Support\Facades\Artisan;
 |
 */
 
-// Line no 1
-
 Artisan::command('inspire', function () {
     $this->comment(Inspiring::quote());
 })->purpose('Display an inspiring quote');
